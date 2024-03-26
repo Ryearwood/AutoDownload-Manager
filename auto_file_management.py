@@ -9,12 +9,12 @@ from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 
 # Destination Folder Paths
-src_download_dir_path = "/Users/ryearwood/Downloads"
-dest_dir_music = "/Users/ryearwood/Desktop/Downloaded Music"
-dest_dir_video = "/Users/ryearwood/Desktop/Downloaded Videos"
-dest_dir_pictures = "/Users/ryearwood/Desktop/Downloaded Pictures"
-dest_dir_documents = "/Users/ryearwood/Desktop/Downloaded Documents"
-dest_other_files = "/Users/ryearwood/Desktop/Downloaded Other Files"
+src_download_dir_path = ""
+dest_dir_music = ""
+dest_dir_video = ""
+dest_dir_pictures = ""
+dest_dir_documents = ""
+dest_other_files = ""
 
 # Supported File Type Extensions
 music_filetypes_extensions = [".mp3", ".m4a", ".wav",".wma",".flac", ".aiff", ".alac", ".aac"]
