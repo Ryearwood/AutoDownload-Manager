@@ -1,6 +1,9 @@
 # Python AutoDownload Manager
 
-A fun Python application to automate your downloads. Designate which folders you want which files to be sorted into!
+A fun Python application to automate your downloads. 
+<br>
+All you have to do is designate which folders you want which files to be sorted into!
+<img width="700" alt="Screenshot 4" src="https://github.com/Ryearwood/AutoDownload-Manager/assets/75701990/d5add73a-f06c-471c-bb2f-1f1c5fa0ab16">
 
 **Want to run this file automatically on Startup on your MacBook?**
 <ol> 
